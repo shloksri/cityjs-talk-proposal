@@ -1,3 +1,5 @@
+# Self-Healing Accessibility: AI-Powered JavaScript Components That Fix Their Own A11y Issues at Runtime
+
 ## **1. Introduction — Why We Need This**
 
 Accessibility is often treated as something we “add later,” instead of something we build **into the foundation**. In modern JavaScript apps, accessibility breaks not because developers don't care — but because real-world UI code evolves faster than teams can maintain it.
